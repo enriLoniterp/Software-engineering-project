@@ -1,0 +1,7 @@
+.tab-header-background {
+    -fx-background-color: #34515e;
+}
+
+.tab:selected {
+    -fx-background-color:  #aed581;
+}
